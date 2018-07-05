@@ -7,7 +7,7 @@ any internet access, and does not store the information that is read. The only i
 input into the app, and a copy of the text message that contained that codeword. No person will see this information except for the person
 that downloads the app. 
 ## License
-``
+````
    Periwinkle
     Copyright (C) 2018 Marlon Jones
 
@@ -23,4 +23,4 @@ that downloads the app.
 
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
-``
+````
