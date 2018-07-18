@@ -1,6 +1,6 @@
 # Periwinkle
 Periwinkle is an upcoming app that will allow you to set a codeword. The app will then read a specified contact's incoming texts
-for that set codeword. This can be used for things such as descrete texting, safety, etc. 
+for that set codeword. This can be used for things such as descrete texting, safety, etc. Periwinkle is shceduled for release sometime in Fall of 2018.
 ## Disclaimer
 While this app is designed to read text messages, it does <b><i>not</i></b> send any of these text messages to a server, does not have
 any internet access, and does not store the information that is read. The only information that is stored is the codeword that you manually
